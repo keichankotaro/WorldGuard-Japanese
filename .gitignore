@@ -2,6 +2,7 @@
 .project
 .settings/
 target/
+search.sh
 
 .DS_Store
 
